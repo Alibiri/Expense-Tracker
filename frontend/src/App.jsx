@@ -2,8 +2,8 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>
-      APP
+    <div className='text-2xl'>
+      App
     </div>
   )
 }
